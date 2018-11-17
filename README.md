@@ -1,0 +1,1 @@
+MCVE for demonstrating a JVM crash when showing a `JColorChooser` dialog with a Substance L&F active.
